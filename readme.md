@@ -12,6 +12,7 @@ https://www.eviltester.com/page/emaillist/
 Recordings and Notes:
 
 - Webinar 01 - https://eviltester.com/2013/02/selenium-simplified-webinar.html
+- Webinar 02 - https://eviltester.com/2013/02/selenium-page-objects-webinar.html
 
 
 Alan Richardson
