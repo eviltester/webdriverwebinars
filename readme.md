@@ -9,6 +9,11 @@ Sign up to our mailing list if you want to keep up to date with our Webinars
 https://www.eviltester.com/page/emaillist/
 
 
+Recordings and Notes:
+
+- Webinar 01 - https://eviltester.com/2013/02/selenium-simplified-webinar.html
+
+
 Alan Richardson
 @eviltester
 www.eviltester.com
